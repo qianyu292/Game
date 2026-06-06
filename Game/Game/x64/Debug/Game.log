@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\SFML\include\SFML\System\Exception.hpp(41,47): warning C4275: 非 dll 接口 class“std::runtime_error”用作 dll 接口 class“sf::Exception”的基
+  (编译源文件“main.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept(100,30):
+      参见“std::runtime_error”的声明
+      D:\SFML\include\SFML\System\Exception.hpp(41,23):
+      参见“sf::Exception”的声明
+  
+  Game.vcxproj -> E:\Game\x64\Debug\Game.exe
